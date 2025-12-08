@@ -8,6 +8,6 @@ public class MainController {
     @GetMapping("/")
     public String index(){
         return
-                "GitHub Actions를 이용한 second CI/CD TEST - 자동 배포하기- application.properties파일 자동으로 만들기.";
+                "GitHub Actions를 이용한 second CI/CD TEST - 자동 배포하기-  test파일  추가.";
     }
 }
